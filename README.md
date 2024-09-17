@@ -29,7 +29,9 @@ Use code with caution.
 This will execute the code directly, providing the results without the interactive environment of a notebook.
 
 A successful run will have the following output:
+
 `Price change graph successfully saved in ./results/priceComparison.png`
+
 `Completed successfully! Check ./results/calculation.txt`
 
 ## Credits
