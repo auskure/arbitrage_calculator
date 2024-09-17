@@ -1,0 +1,7 @@
+Theoretical Max: 42357.95
+
+order fulfilled output below 
+
+                     Gemini_Open  Reuters_Open  Trade_Volume  Absolute_Difference  Total_Tax  BuyGemSellReuOrder  Money_Earned  Execute
+2021-11-20 13:24:00     59216.09      58725.23         27.31               490.86    2358.83                   0      11048.26        1
+2021-11-20 13:23:00     58740.88      58529.10         27.46               211.78    2345.40                   0       3471.12        1
