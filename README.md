@@ -1,4 +1,4 @@
-# [Arbitrage Analysis Tool] - A Jupyter Notebook and Python Script Example
+# Arbitrage Analysis Tool - A Jupyter Notebook and Python Script Example
 
 ## Description:
 
